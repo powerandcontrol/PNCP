@@ -13,7 +13,6 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
 [![Tkinter](https://img.shields.io/badge/Tkinter-Interface%20Gr%C3%A1fica-green)](https://docs.python.org/3/library/tkinter.html)
 [![Requests](https://img.shields.io/badge/Requests-Consulta%20a%20API-orange)](https://requests.readthedocs.io/en/master/)
-[![Django](https://img.shields.io/badge/Django-Interface%20Gr%C3%A1fica-green)](https://docs.python.org/3/library/django.html)
 
 </div>
 
@@ -34,14 +33,6 @@ Este repositório contém um script Python para consultar e filtrar dados da API
 3. Execute o script `pncp_api.py` que possui uma "interface" feita com a biblioteca Tkinter, ainda na versão beta.
 4. Siga as instruções para inserir as informações e aguarde os dados serem filtrados.
 5. Os dados filtrados serão salvos em um arquivo JSON no local especificado.
-
-## Como Utilizar
-
-1. Instale as dependências da biblioteca `django` além de conferir se as linguagens de HTML, CSS e JavaScript estão devidamente instaladas.
-3. Clone este repositório, ou caso deseje, construa você o seu ambiente Django.
-4. Siga as instruções e confira se as configurações estão conforme o repositório, `views.py` e `urls.py`para inserir as informações através do formulário em HTML e aguarde os dados serem filtrados.
-5. Os dados filtrados serão salvos em um arquivo JSON no local especificado.
-
    
 ### Contribuindo
 
