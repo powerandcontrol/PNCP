@@ -26,14 +26,22 @@ Este repositório contém um script Python para consultar e filtrar dados da API
 - **Filtragem de Dados:** Permite filtrar os dados com base na esfera e na sigla do estado.
 - **Salvamento de Dados:** Salva os dados filtrados em um arquivo JSON para referência futura.
 
-## Como Utilizar
+## Como Utilizar 
 
 1. Clone este repositório para o seu ambiente local.
 2. Instale as dependências listadas no arquivo requirements.txt usando `pip install -r requirements.txt`.
-3. Execute o script `pncp_todas_paginas.py` que possui uma "interface" feita com a biblioteca Tkinter, ou o script `pncp.py`, que já trabalha pelo Terminal ou Prompt de comando, ambos estão na versão beta.
-4. Siga as instruções na linha de comando para inserir a esfera e a sigla do estado desejados.
+3. Execute o script `pncp_api.py` que possui uma "interface" feita com a biblioteca Tkinter, ainda na versão beta.
+4. Siga as instruções para inserir as informações e aguarde os dados serem filtrados.
 5. Os dados filtrados serão salvos em um arquivo JSON no local especificado.
 
+## Como Utilizar
+
+1. Instale as dependências da biblioteca `django` além de conferir se as linguagens de HTML, CSS e JavaScript estão devidamente instaladas.
+3. Clone este repositório, ou caso deseje, construa você o seu ambiente Django.
+4. Siga as instruções e confira se as configurações estão conforme o repositório, `views.py` e `urls.py`para inserir as informações através do formulário em HTML e aguarde os dados serem filtrados.
+5. Os dados filtrados serão salvos em um arquivo JSON no local especificado.
+
+   
 ### Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias, correções de bugs ou novas funcionalidades.
