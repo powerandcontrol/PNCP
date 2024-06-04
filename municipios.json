@@ -1,0 +1,554 @@
+[
+    {
+    "Id": 3176,
+    "Codigo": 3300100,
+    "Nome": "Angra dos Reis",
+    "Uf": "RJ"
+    },
+    {
+        "Id": 3177,
+        "Codigo": 3300159,
+        "Nome": "Aperibé",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3178,
+        "Codigo": 3300209,
+        "Nome": "Araruama",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3179,
+        "Codigo": 3300225,
+        "Nome": "Areal",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3180,
+        "Codigo": 3300233,
+        "Nome": "Armação dos Búzios",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3181,
+        "Codigo": 3300258,
+        "Nome": "Arraial do Cabo",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3182,
+        "Codigo": 3300308,
+        "Nome": "Barra do Piraí",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3183,
+        "Codigo": 3300407,
+        "Nome": "Barra Mansa",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3184,
+        "Codigo": 3300456,
+        "Nome": "Belford Roxo",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3185,
+        "Codigo": 3300506,
+        "Nome": "Bom Jardim",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3186,
+        "Codigo": 3300605,
+        "Nome": "Bom Jesus do Itabapoana",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3187,
+        "Codigo": 3300704,
+        "Nome": "Cabo Frio",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3188,
+        "Codigo": 3300803,
+        "Nome": "Cachoeiras de Macacu",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3189,
+        "Codigo": 3300902,
+        "Nome": "Cambuci",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3190,
+        "Codigo": 3300936,
+        "Nome": "Carapebus",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3191,
+        "Codigo": 3300951,
+        "Nome": "Comendador Levy Gasparian",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3192,
+        "Codigo": 3301009,
+        "Nome": "Campos dos Goytacazes",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3193,
+        "Codigo": 3301108,
+        "Nome": "Cantagalo",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3194,
+        "Codigo": 3301157,
+        "Nome": "Cardoso Moreira",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3195,
+        "Codigo": 3301207,
+        "Nome": "Carmo",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3196,
+        "Codigo": 3301306,
+        "Nome": "Casimiro de Abreu",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3197,
+        "Codigo": 3301405,
+        "Nome": "Conceição de Macabu",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3198,
+        "Codigo": 3301504,
+        "Nome": "Cordeiro",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3199,
+        "Codigo": 3301603,
+        "Nome": "Duas Barras",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3200,
+        "Codigo": 3301702,
+        "Nome": "Duque de Caxias",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3201,
+        "Codigo": 3301801,
+        "Nome": "Engenheiro Paulo de Frontin",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3202,
+        "Codigo": 3301850,
+        "Nome": "Guapimirim",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3203,
+        "Codigo": 3301876,
+        "Nome": "Iguaba Grande",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3204,
+        "Codigo": 3301900,
+        "Nome": "Itaboraí",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3205,
+        "Codigo": 3302007,
+        "Nome": "Itaguaí",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3206,
+        "Codigo": 3302056,
+        "Nome": "Italva",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3207,
+        "Codigo": 3302106,
+        "Nome": "Itaocara",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3208,
+        "Codigo": 3302205,
+        "Nome": "Itaperuna",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3209,
+        "Codigo": 3302254,
+        "Nome": "Itatiaia",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3210,
+        "Codigo": 3302270,
+        "Nome": "Japeri",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3211,
+        "Codigo": 3302304,
+        "Nome": "Laje do Muriaé",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3212,
+        "Codigo": 3302403,
+        "Nome": "Macaé",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3213,
+        "Codigo": 3302452,
+        "Nome": "Macuco",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3214,
+        "Codigo": 3302502,
+        "Nome": "Magé",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3215,
+        "Codigo": 3302601,
+        "Nome": "Mangaratiba",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3216,
+        "Codigo": 3302700,
+        "Nome": "Maricá",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3217,
+        "Codigo": 3302809,
+        "Nome": "Mendes",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3218,
+        "Codigo": 3302858,
+        "Nome": "Mesquita",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3219,
+        "Codigo": 3302908,
+        "Nome": "Miguel Pereira",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3220,
+        "Codigo": 3303005,
+        "Nome": "Miracema",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3221,
+        "Codigo": 3303104,
+        "Nome": "Natividade",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3222,
+        "Codigo": 3303203,
+        "Nome": "Nilópolis",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3223,
+        "Codigo": 3303302,
+        "Nome": "Niterói",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3224,
+        "Codigo": 3303401,
+        "Nome": "Nova Friburgo",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3225,
+        "Codigo": 3303500,
+        "Nome": "Nova Iguaçu",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3226,
+        "Codigo": 3303609,
+        "Nome": "Paracambi",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3227,
+        "Codigo": 3303708,
+        "Nome": "Paraíba do Sul",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3228,
+        "Codigo": 3303807,
+        "Nome": "Paraty",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3229,
+        "Codigo": 3303856,
+        "Nome": "Paty do Alferes",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3230,
+        "Codigo": 3303906,
+        "Nome": "Petrópolis",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3231,
+        "Codigo": 3303955,
+        "Nome": "Pinheiral",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3232,
+        "Codigo": 3304003,
+        "Nome": "Piraí",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3233,
+        "Codigo": 3304102,
+        "Nome": "Porciúncula",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3234,
+        "Codigo": 3304110,
+        "Nome": "Porto Real",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3235,
+        "Codigo": 3304128,
+        "Nome": "Quatis",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3236,
+        "Codigo": 3304144,
+        "Nome": "Queimados",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3237,
+        "Codigo": 3304151,
+        "Nome": "Quissamã",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3238,
+        "Codigo": 3304201,
+        "Nome": "Resende",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3239,
+        "Codigo": 3304300,
+        "Nome": "Rio Bonito",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3240,
+        "Codigo": 3304409,
+        "Nome": "Rio Claro",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3241,
+        "Codigo": 3304508,
+        "Nome": "Rio das Flores",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3242,
+        "Codigo": 3304524,
+        "Nome": "Rio das Ostras",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3243,
+        "Codigo": 3304557,
+        "Nome": "Rio de Janeiro",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3244,
+        "Codigo": 3304607,
+        "Nome": "Santa Maria Madalena",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3245,
+        "Codigo": 3304706,
+        "Nome": "Santo Antônio de Pádua",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3246,
+        "Codigo": 3304755,
+        "Nome": "São Francisco de Itabapoana",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3247,
+        "Codigo": 3304805,
+        "Nome": "São Fidélis",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3248,
+        "Codigo": 3304904,
+        "Nome": "São Gonçalo",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3249,
+        "Codigo": 3305000,
+        "Nome": "São João da Barra",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3250,
+        "Codigo": 3305109,
+        "Nome": "São João de Meriti",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3251,
+        "Codigo": 3305133,
+        "Nome": "São José de Ubá",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3252,
+        "Codigo": 3305158,
+        "Nome": "São José do Vale do Rio Preto",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3253,
+        "Codigo": 3305208,
+        "Nome": "São Pedro da Aldeia",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3254,
+        "Codigo": 3305307,
+        "Nome": "São Sebastião do Alto",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3255,
+        "Codigo": 3305406,
+        "Nome": "Sapucaia",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3256,
+        "Codigo": 3305505,
+        "Nome": "Saquarema",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3257,
+        "Codigo": 3305554,
+        "Nome": "Seropédica",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3258,
+        "Codigo": 3305604,
+        "Nome": "Silva Jardim",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3259,
+        "Codigo": 3305703,
+        "Nome": "Sumidouro",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3260,
+        "Codigo": 3305752,
+        "Nome": "Tanguá",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3261,
+        "Codigo": 3305802,
+        "Nome": "Teresópolis",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3262,
+        "Codigo": 3305901,
+        "Nome": "Trajano de Moraes",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3263,
+        "Codigo": 3306008,
+        "Nome": "Três Rios",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3264,
+        "Codigo": 3306107,
+        "Nome": "Valença",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3265,
+        "Codigo": 3306156,
+        "Nome": "Varre-Sai",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3266,
+        "Codigo": 3306206,
+        "Nome": "Vassouras",
+        "Uf": "RJ"
+    },
+    {
+        "Id": 3267,
+        "Codigo": 3306305,
+        "Nome": "Volta Redonda",
+        "Uf": "RJ"
+    }
+]
